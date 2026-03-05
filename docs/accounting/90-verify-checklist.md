@@ -52,6 +52,13 @@ sacct
 
 ---
 
+# Accounting 확인
+```bash
+sacct
+```
+
+---
+
 # Troubleshooting
 
 확인 항목

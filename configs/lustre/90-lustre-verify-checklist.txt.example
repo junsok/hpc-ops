@@ -1,0 +1,11 @@
+# 90-lustre-verify-checklist.txt.example
+# Example only.
+
+1) mount | grep lustre
+2) lfs df -h
+3) lfs df -i
+4) lfs osts
+5) lfs mdts
+6) lctl dl
+7) lfs hsm_state <SAMPLE_FILE>
+8) dmesg | grep lustre
